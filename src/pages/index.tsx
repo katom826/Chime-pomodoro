@@ -48,6 +48,7 @@ export default function Home() {
         status === "作業中" ? "bg-red-500" : "bg-blue-500"
       }`}
     >
+      <p>テスト</p>
       <h1>時報ポモドーロ</h1>
       <p>{status}</p>
       <p>
